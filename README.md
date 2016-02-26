@@ -3,3 +3,4 @@
 ## Practice Repository For Git Test 
 
 **Bold Text**
+*Italic Text*
