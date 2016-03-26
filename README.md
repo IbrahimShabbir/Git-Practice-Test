@@ -8,7 +8,11 @@
 ~~Shift + Console Text~~
 
 ``
-Only single Console text to make it look different which have gray backgrounf
+Only single Console text to make it look different which have gray backgroung
 ``
+
 1. Numbering
+	1. sub numbering
+	2. again
+
 * bullets
